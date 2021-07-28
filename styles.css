@@ -1,0 +1,251 @@
+/* Edited by Kwitee D. Gaylah */
+
+/* Global Styling */
+
+
+body{
+  background-color: ;
+}
+
+h1{
+  font-family: 'Raleway', sans-serif;
+  color: #2C2C7B;
+  font-weight: bold;
+  line-height: 1.8;
+  font-size: 30px;
+
+}
+
+h3{
+  font-family: 'Raleway', sans-serif;
+  color: #A685E2;
+  font-size: 15px;
+}
+
+
+h2{
+  color: #A685E2;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+
+}
+
+a{
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: #A685E2;
+}
+
+a:hover{
+  color: #FE4FBF;
+}
+
+
+
+
+/* Navigation Bar */
+
+.signup-btn{
+  background-color: #2C2C7B;
+  border: none;
+}
+
+.signup-btn:hover{
+  background-color: #FE4FBF;
+}
+
+/* Hero Section */
+
+#hero{
+  padding: 3% 5%;
+  background-color: #FFF5F5;
+
+}
+
+.hero-content{
+  padding-top: 50px;
+}
+
+
+.hero-div>h3{
+  margin-top: 40px;
+}
+
+
+.hero-btn1{
+  background-color: #2C2C7B;
+  border: none;
+}
+
+.hero-btn1:hover{
+  background-color: #FE4FBF;
+}
+
+.hero-btn2{
+  border: solid 1px #A685E2;
+  color: #A685E2;
+}
+
+
+.hero-btn2:hover{
+  background-color: #FE4FBF;
+  border: solid 1px  #FE4FBF;
+}
+
+
+.hero-div>img{
+  width: 80%;
+  float: right;
+}
+
+
+/* About Us Section */
+
+#about-us{
+  padding: 3% 5%;
+}
+
+
+.aboutus-img{
+  width: 65%;
+  height: 200px;
+  border-radius: 40px;
+  float: right;
+}
+
+.aboutus-txt{
+  padding-right: 150px;
+  line-height: 1.8;
+}
+
+
+
+/* Features Section */
+
+#features{
+  padding: 3% 5%;
+  text-align: center;
+  background-color: #FFF5F5;
+}
+
+.icon-div{
+  width: 50px;
+  height: 50px;
+  background-color: lightpink;
+  border-radius: 100%;
+  margin-left: 40%;
+}
+
+
+
+#top-events{
+  padding: 3% 5%;
+  text-align: center;
+}
+
+
+.alert-div{
+  background: lightgrey;
+  padding: 1%;
+  border-radius: 20px;
+  margin: 20px 40px;
+}
+
+.alert-div>i{
+  color: red;
+
+}
+
+
+.event-div{
+  padding: 3%;
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
+.event-link-div{
+  background-color: lightgrey;
+  border-radius: 40px;
+  color: red;
+}
+
+.event-img{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.event-btn{
+  background-color: #A685E2;
+  border: none;
+}
+
+.event-btn:hover{
+  background-color: #FE4FBF;
+}
+
+
+
+/* Testimonial Section */
+
+#testimonials{
+  padding: 3% 5%;
+  background-color: #EFEFEF;
+  text-align: center;
+}
+
+
+.client-img{
+  width: 7%;
+  border-radius: 10px;
+}
+
+
+.client-div{
+  padding: 0px 100px;
+}
+
+.client-div>p{
+  padding: 10px 80px;
+}
+
+
+/* Call to Action Section */
+
+#cta{
+  padding: 3% 5%;
+  text-align: center;
+
+}
+
+.cta-btn{
+  background-color: #2C2C7B;
+  border: none;
+}
+
+.cta-btn:hover{
+  background-color: #FE4FBF;
+}
+
+
+/* Footer Section */
+
+#footer{
+  padding: 3% 5%;
+  background-color: #FFF5F5;
+}
+
+.icons-div{
+  padding: 1% 5%;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.contact-icon{
+  margin-right: 20px;
+  color: #A685E2;
+}
+
+.contact-icon:hover{
+  color: #FE4FBF;
+}
